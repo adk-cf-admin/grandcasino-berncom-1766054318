@@ -1,0 +1,205 @@
+{
+    "de-CH": {
+        "styles": {
+            "bg": "#050302",
+            "lang-select-color": "#222829",
+            "bg-light": "#1D1E23",
+            "welcome-bonus-bg": "#f7f7f7",
+            "top-games-hover-fg": "#111211",
+            "main-bg": "#FFFFFF",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#1D1E23",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#D5BD76",
+            "yellow": "#B31413",
+            "yellow-button": "#D5BD76",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#f7f7f7",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#1D1E23",
+            "faq-label": "#f7f7f7",
+            "bg-footer": "#1D1E23",
+            "copyright": "#e7e7d5",
+            "starColor": "#B31413",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Grand Casino Bern",
+            "title": "Grand Casino Bern – Roulette, Blackjack, Slots & Jackpots im Kursaal Bern",
+            "description": "Grand Casino Bern: klassische Tischspiele (Roulette, Blackjack, Ultimate Texas Hold’em), Slots mit vernetzten Jackpots, Crazy Daisy Kitchen Bar, Abendprogramme Do–Sa, bequeme Kursaal‑Garage, Zutritt 18+, smart‑casual.",
+            "canonical": "grandcasino-bern.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1107",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "grandcasino-bern.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1108",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1116"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1110",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Grand Casino Bern Logo"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": " Jetzt spielen"
+        },
+        "hero": {
+            "title": "Grand Casino Bern – Ihr Casino im Kursaal Bern: Spiele, Jackpots & Nightlife",
+            "textDesktop": "Exklusives Willkommensangebot von",
+            "textMobile": "Exklusives Willkommensangebot von",
+            "playGame": "Spiel starten",
+            "claimBonus": "Bonus sichern",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1111",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1112",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Bonus sichern",
+            "title": "Top-Casino",
+            "allCasino": "Alle Casino",
+            "welcomeBonusText": "Willkommensbonus"
+        },
+        "bonusDetails": {
+            "title": "Bonusdetails",
+            "getBonusButtonText": "Bonus erhalten",
+            "maximumAmountText": "Maximalbetrag",
+            "wagerText": "Umsatz",
+            "bonusCodeText": "Bonuscode",
+            "casino": "Casino",
+            "bonuses": "Boni",
+            "rate": "Rate",
+            "freeSpins": " Freispiele",
+            "moreInfo": "Mehr Infos",
+            "get": "Erhalten",
+            "refresh": "Aktualisieren"
+        },
+        "advantages": {
+            "title": "Vorteile",
+            "advantagesBeforeText": "Some text before list",
+            "items": [
+                "Grosse Slot‑Auswahl mit progressiven Jackpots netzwerkweit.",
+                "Klassische Tische: Roulette, Blackjack, Punto Banco täglich.",
+                "Poker: Cashgames und regelmässige Turniere vor Ort.",
+                "Jackpots: Swiss Jackpot und Jackpot Mania.",
+                "Crazy Daisy: Küche, Cocktails, Stil der 20er.",
+                "Zentrale Lage: Tram 9, Kursaal‑Parking vergünstigt nachts.",
+                "Membär‑Club: freier Eintritt, Rabatte, Boni, Events exklusiv."
+            ],
+            "advantagesAfterText": "365 Tage geöffnet, Tischspiele ab 18:00, Eintritt CHF 10 inkl. Welcome‑Drink — ideal für After‑Work und Besucher. Es gibt Raucherbereiche mit Slots und eine klare Policy zur Sozialverantwortung.",
+            "knowMore": "Mehr erfahren",
+            "appTitle": "Grand Casino Bern App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1113",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Grand Casino Bern App",
+            "mobileGooglePlayImageTitle": "Grand Casino Bern App",
+            "mobileIosImageTitle": "Grand Casino Bern App"
+        },
+        "games": {
+            "playNowText": "Jetzt spielen",
+            "title": "Beliebte Spiele",
+            "allGames": "Alle Spiele"
+        },
+        "about": {
+            "history": {
+                "title": "Über Grand Casino Bern",
+                "description1": "",
+                "items": [
+                    "Swiss Jackpot: über 1 Mio. CHF.",
+                    "Jackpot Mania Super: 100 000 CHF.",
+                    "Mystery Jackpot: bis 30 000 CHF."
+                ],
+                "description2": "Das Grand Casino Bern ist ein modernes Stadtcasino im Kursaal Bern mit stilvollem Abendambiente. \nGeboten werden klassische Tischspiele und vielfältige Slots mit vernetzten Jackpots. \nPokerfans finden Cashgames und regelmässige Turnierformate in angenehmer Atmosphäre. \nDie Crazy Daisy Kitchen Bar verbindet kreative Küche, Drinks und entspannten Speakeasy‑Vibe direkt am Floor. \n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1114",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Zutritt erhalten volljährige Gäste mit amtlichem Ausweis; der Eintritt umfasst einen Willkommensdrink. \nAusgewiesene Raucherbereiche und klare Besucherinfos erleichtern den ersten Besuch. \nDer Membär‑Club bietet Vorteile, Einladungen und sammelbare Boni für Stammgäste. \nPer Tram ist die Anreise komfortabel, Autofahrer nutzen die Parkgarage des Kursaals. \nDas Haus ist ganzjährig offen und ergänzt das Spiel regelmässig mit Events und Abendprogrammen. \nBetrieb und Spielerschutz stehen unter strenger Schweizer Aufsicht mit klarer Responsible‑Gaming‑Policy."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Grand Casino Bern: Stil, Rhythmus und Vorteile im Kursaal Bern",
+                "description": "<p>\nIm Grand Casino Bern trifft urbane Eleganz auf spielerische Spannung: Der Zugang führt durch den ikonischen Kursaal Bern, das sanfte Floor‑Licht schafft eine angenehme Abendstimmung, und die Crazy Daisy Kitchen Bar setzt mit ihrem Speakeasy‑Look einen unverwechselbaren Akzent direkt am Spiel. So entsteht ein Ort, der gleichermassen für Atmosphäre, Kulinarik und Nightlife steht.\n<\/p>\n<br>\n\n<p>\nDas Haus ist an 365 Tagen geöffnet: von Sonntag bis Donnerstag von mittags bis spät, am Freitag und Samstag bis in die frühen Morgenstunden; Tischspiele beginnen täglich am Abend. Zutritt erhalten volljährige Gäste mit amtlichem Ausweis, und der Eintritt beinhaltet einen Welcome‑Drink — unkompliziert und gästeorientiert.\n<\/p>\n<br>\n<p>\nKulinarisch prägt die Crazy Daisy Kitchen Bar das Erlebnis: kreative Drinks, warme Küche und ein entspannter Speakeasy‑Vibe, der perfekt zum Wechsel zwischen Spieltisch und Bar passt. Ergänzend bietet der Kursaal weitere Adressen wie Yù und Giardino sowie im Sommer den Rooftop Grill — ideal, um den Abend kulinarisch zu verlängern.\n<\/p>\n<br>\n<p>\nFür den Aufenthalt in Bern liegt alles nah beieinander: Im selben Komplex befindet sich das Swissôtel Kursaal Bern mit modernen Zimmern und direktem Anschluss an Casino, Gastronomie und Event‑Infrastruktur. So wird aus Dinner, Spiel, Cocktails und Erholung ein nahtloser Abend ohne Wegeverlust.\n<\/p>\n<br>\n<p>\nDie Entertainment‑Schwerpunkte an Donnerstag, Freitag und Samstag sorgen für zusätzliches Nightlife‑Flair, während thematische Experience‑Pakete Kulinarik und Spiel stimmig kombinieren. Das macht aus einem spontanen Casinobesuch ein kleines Ereignis mit erinnerungswürdigem Finish. \n<\/p>\n<br>\n<p>\nFür Stammgäste lohnt sich der Membär‑Club: ein stufenbasiertes Loyalty‑Programm mit Punkten, die Vorteile wie freien Eintritt, Welcome‑Drinks, Rabatte in der Crazy Daisy und Einladungen zu Events ermöglichen — bis hin zu exklusiven Aktionen im Kursaal‑Umfeld. Ein stimmiges Paket aus Stil, Nutzen und verlässlichem Service.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSprachen, Zahlung und Bargeld im Grand Casino Bern\n<\/h3>\n\n<p>\nKommunikation und Sprachen. Das Team im Grand Casino Bern erklärt die Spiele und bietet auf Voranmeldung kurze Führungen durch den Floor an – das steht explizit in den offiziellen FAQ und erleichtert Einsteiger:innen den Start.  Zudem sind zentrale Website‑Bereiche deutsch, englisch und französisch verfügbar (u. a. Hausordnung, Öffnungszeiten, Besucherinfos) – ein Indiz für mehrsprachige Gäste‑Kommunikation vor Ort.\n<\/p>\n<br>\n\n<p>\nZahlung am Tisch und an Slots. Tischjetons kaufst du bar in CHF direkt am Spieltisch; aus Sicherheitsgründen nimmt der Croupier das Geld nur, wenn es auf dem Tisch liegt. Fremdwährungen werden an der Casino‑Kasse akzeptiert; du erhältst spezielle (non‑negotiable) Chips, die bei Gewinn gegen reguläre Jetons getauscht werden. Slots funktionieren mit CHF‑Banknoten oder Tickets; Münzen werden nicht mehr verwendet.  Die Hausordnung regelt Identifikation am Eintritt und AML‑Vorgaben.\n<\/p>\n<br>\n<p>\nAuszahlungen, Automaten und Wechsel. Slot‑Guthaben lässt sich an der Kasse oder über Payout‑Terminals via Ticket auszahlen (geräteabhängige Limits); Jetons werden an der Kasse in Bargeld gewechselt.  Das Mitnehmen von Jetons aus dem Casino ist gesetzlich untersagt; Abwicklung von Bargeld\/Jetons unterliegt Hausordnung und Aufsicht.  Für Bargeldbezug\/Wechsel ausserhalb des Casinos stehen städtische Wechselstuben und Bankomaten zur Verfügung; zahle wenn möglich in CHF und meide die dynamische Währungsumrechnung am Terminal.\n<\/p>\n<br>\n<p>\nPraxistipp. Halte für den Einstieg etwas CHF‑Bargeld bereit und kläre Karten‑, Wechsel‑ und Limitfragen direkt an der Kasse – so sparst du Zeit, bleibst regelkonform und profitierst von einem reibungslosen Ablauf.\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGrand Casino Bern: Besuchsregeln, Dresscode und Anreise\n<\/h3>\n\n<p>\nDer Zutritt zum Grand Casino Bern ist nur für Volljährige mit amtlichem Ausweis möglich; die Identitätsprüfung erfolgt gemäss Geldspielgesetz und der Hausordnung am Eingang. \nEs gilt ein smart‑casual Dresscode: Sakko\/Krawatte sind nicht erforderlich, Flip‑Flops und Tanktops sind untersagt; gewisse Kopfbedeckungen sind ebenfalls nicht gestattet. \nDer Eintritt ist bis 30 Minuten vor Schliessung möglich und beinhaltet einen Welcome‑Drink in der Crazy Daisy Kitchen Bar. \nGäste mit aktiven Spielsperren erhalten keinen Zutritt; dies entspricht der Responsible‑Gaming‑Policy und der Aufsicht durch den Regulator. \nRaucherbereiche mit Geldspielautomaten sind separat ausgewiesen, damit der Hauptbereich rauchfrei bleibt. \nDie Hausordnung schreibt zudem Datenerfassung am Eintritt und AML‑Vorgaben vor; die Security kann den Zutritt verweigern, wenn Anforderungen nicht erfüllt sind.\nDas Mitnehmen von Jetons ausserhalb des Casinos ist untersagt; Bargeld‑\/Jeton‑Transaktionen erfolgen ausschliesslich an der Kasse.\nDas Casino liegt im Kursaal Bern (5. Stock); die Tramlinie 9 ab Hauptbahnhof hält direkt bei Kursaal. \nFür Autofahrer steht die Kursaal‑Tiefgarage mit vergünstigter Nachtgebühr zur Verfügung; aktuelle Hinweise zur Verkehrslage werden online kommuniziert. \nGäste werden gebeten, Mäntel und grosse Taschen in der Garderobe zu deponieren und den Tisch\/Automaten erst nach Auszahlung zu verlassen.\nDie Besuchsregeln sind in FAQ, Hausordnung und Prices & Opening Times zusammengefasst; prüfe die Details vor deinem Besuch.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDresscode\n<\/h4>\n\n <ul>\n            <li>• \nSmart‑casual; keine Flip‑Flops\/Tanktops; Kopfbedeckungen für Herren und Caps eingeschränkt.\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEintrittsbedingungen\n<\/h4>\n\n <ul>\n            <li>• \n18+ und amtlicher Ausweis; Eintritt bis 30 Minuten vor Schliessung; Welcome‑Drink inklusive.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nVerbote & Sicherheit\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSpielsperre = kein Zutritt; Jetons nicht mitnehmen; AML‑ und Sicherheitsvorgaben beachten.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRauchen\n<\/h4>\n\n <ul>\n            <li>• \nNur in markierten Raucherzonen mit Slots gestattet.\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nParking & Anreise\n\n\n<\/h4>\n\n <ul>\n            <li>• \nKursaal‑Parking, Tram Nr. 9 bis Kursaal; beachte aktuelle Verkehrshinweise.\n<\/li>\n\n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMembär‑Club Grand Casino Bern: alle Vorteile auf einen Blick\n<\/h3>\n\n<p>\nDer Membär‑Club ist das Loyalty‑Programm des Grand Casino Bern, das jeden Besuch mit konkreten Benefits aufwertet: vom freien Eintritt und Welcome‑Drink bis zu Gastro‑Rabatten und exklusiven Event‑Einladungen. Die Anmeldung ist unkompliziert — online oder am Check‑in — und die Vorteile gelten ab dem ersten Besuch. \nDas Punktesystem unterscheidet Status‑Punkte (bestimmen dein Level, jährlicher Reset) und Balance‑Punkte (bleiben unbegrenzt gültig und können vor Ort eingelöst werden). \nDie Level reichen von Friend bis Royal und öffnen mit jeder Stufe zusätzliche Privilegien: vergünstigtes bzw. kostenloses Parking, freier Eintritt inkl. Welcome‑Drink, bis zu 20% Gastro‑Rabatt und spezielle Pakete. \nDazu kommt der Membär Day: an jedem dritten Dienstag gibt’s dreifache Balance‑Punkte an Slots und Tischen sowie freien Eintritt für alle Levels. \nClub‑Mitglieder spielen zudem um den Membär‑Club Jackpot (max. CHF 20 000) und gleichzeitig um vernetzte Jackpots wie Jackpot Mania (bis CHF 100 000) und Mystery (bis CHF 30 000). \nBalance‑Punkte lassen sich für Parking, Cash‑Tickets und Konsumation einsetzen — so lohnt sich das Programm auch bei kurzen Abenden. \nDie komplette Mechanik steht auf der offiziellen Club‑Seite; prüfe vor dem Besuch die aktuellen Bedingungen, da Anpassungen möglich sind.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistrierungsbedingungen\n\n\n<\/h4>\n\n <ul>\n            <li>• \nWo & wie: Online‑Formular ausfüllen oder am Check‑in registrieren; die Club‑Karte wird sofort ausgestellt und ist ab dem ersten Besuch nutzbar.\n<\/li>\n            <li>• \nWer: Gäste mit Zutritt zum Casino (18+ mit gültigem Ausweis); die Club‑Vorteile gelten bei jedem Eintritt.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLevels und wie man sie erreicht\n\n\n<\/h4>\n\n <ul>\n            <li>• \nFriend — Startlevel (0 Status‑Punkte).\n<\/li>\n            <li>• \nPro — ab 10 000 Status‑Punkten.\n<\/li>\n            <li>• \nMaster — ab 250 000 Status‑Punkten.\n<\/li>\n            <li>• \nRoyal — ab 500 000 Status‑Punkten.\n<\/li>\n\t    <li>• \nAufstieg: Status‑Punkte sammelst du durch Besuche und Spiel; am Membär Day gibt’s x3 Balance‑Punkte, was die Einlösungs‑Vorteile beschleunigt (Level bleiben status‑basiert).\n<\/li>\n   <li>• \nReset: Status‑Punkte werden jährlich zurückgesetzt; Balance‑Punkte verfallen nicht.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBenefits & Zahlen\n\n<\/h4>\n\n <ul>\n            <li>• \nParking: 100 Punkte = 1 Stunde in der Kursaal‑Garage; Level‑Vorteile: CHF 2\/Stunde für Friend\/Pro und gratis für Master\/Royal.\n<\/li>\n            <li>• \nBar\/Restaurant: 500 Punkte = CHF 1 für Konsumation; 20% Rabatt in der Crazy Daisy für Master\/Royal (für Mitglied + 1 Begleitung).\n<\/li>\n            <li>• \nSpielguthaben: 10 000 Punkte = CHF 10 (an der Kasse oder via Cash‑Ticket).\n<\/li>\n            <li>• \nEintritt: von freiem Eintritt (Friend\/Pro) über frei inkl. Welcome‑Drink (Master) bis frei inkl. Welcome‑Drink für dich + 1 Gast (Royal).\n<\/li>\n\t    <li>• \nGeburtstagsgeschenke: gestaffelte Balance‑Gutschriften — Richtwerte: 10 000 \/ 20 000 \/ 50 000 \/ 100 000 Punkte (Friend → Royal).\n<\/li>\n\t    <li>• \nKursaal‑Services: 20% Rabatt auf ausgewählte Leistungen für Master\/Royal.\n<\/li>\n\t    <li>• \nSpezialpakete: für Royal — 1× pro Jahr Paket für 4 Personen im Wert von CHF 400.\n<\/li>\n\t    <li>• \nJackpots für Mitglieder: Membär‑Club Jackpot bis CHF 20 000; parallel Jackpot Mania Super bis CHF 100 000, Mystery bis CHF 30 000.\n<\/li>\n        <\/ul><br>\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Softwareanbieter"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Unterhaltung und Gaming im Grand Casino Bern",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBoni, Jackpots und saisonale Angebote im Grand Casino Bern\n<\/h3>\n\n<p>\nIm Grand Casino Bern gibt es neben dem Loyalty‑Programm zahlreiche spielbezogene Boni, progressive Jackpots und Themen‑Promos, die Slots wie auch Tischspiele attrahieren. Die wichtigsten Gewinnmotoren sind der landesweite Swiss Jackpot und die Jackpot Mania‑Familie (Mini\/Midi\/Super\/Mystery), die jedem Spin eine Extraportion Spannung verleiht. \nAn den Tischen sorgen progressive Side Bets wie Blazing 7s (Blackjack) und Stud Poker Jackpot für zusätzliche Gewinnchancen mit oft fünfstelligen Beträgen. \nFür einen entspannten Wochenstart läuft Blue Monday: Am Sonntag gibt’s einen Gutschein für freien Eintritt und CHF 10 Spielguthaben am darauffolgenden Montag. \nDazu kommen Abendprogramme Do–Sa und saisonale Highlights wie der Advents‑Kalender mit täglichen Überraschungen im Dezember. \nErlebnis‑Pakete des Kursaals — «Giardino & Play», «Asian Dream Buffet & Play», «Brunch & Play» — kombinieren Kulinarik, Eintritt, Game‑Credit und einen Welcome‑Drink zu einem stimmigen Night‑Out. \nSo erhalten Gäste auch ohne Club‑Teilnahme handfeste Vorteile und zusätzliche Gewinnchancen; die saisonalen Angebote füllen den Event‑Kalender das ganze Jahr.\n<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nKonkrete Boni, Gewinne und Specials\n<\/h4>\n\n <ul>\n            <li>• \nSwiss Jackpot (Slots, landesweit vernetzt): progressiver Top‑Gewinn; oft über 1 Mio. CHF (aktuelle Werte siehst du am Display im Casino und online).\n<\/li>\n            <li>• \nJackpot Mania Super: Startwert CHF 30 000, Maximalwert bis CHF 100 000; verfügbar an entsprechend markierten Automaten.\n<\/li>\n            <li>• \nJackpot Mania Mystery: zufällige Ausschüttung; Start CHF 5 000, Maximalwert bis CHF 30 000.\n<\/li>\n            <li>• \nBlazing 7s (Blackjack‑Progressiv): Gewinn basiert auf der Anzahl «Sieben» in der Hand; Beispiel Live‑Werte: Major ~CHF 22 800+, Minor ~CHF 5 000+ (variabel).\n<\/li>\n\t    <li>• \nStud Poker Jackpot (Ultimate Texas Hold’em): zusätzlicher Pot für Tisch‑Kombinationen; Beispiel‑Level: ca. CHF 43 000 (steigt dynamisch).\n<\/li>\n\t    <li>• \nBlue Monday (Montags‑Bonus): Gutschein für freien Eintritt + CHF 10 Spielguthaben — Ausgabe am Sonntag, gültig nur am Montag.\n<\/li>\n\t    <li>• \nAdvents‑Kalender (Dezember‑Promo): tägliche «Türchen» mit Preisen und Überraschungen — Details auf der Casino‑Website.\n<\/li>\n\t    <li>• \nErlebnis‑Pakete (Kursaal Bern): «Giardino & Play», «Asian Dream Buffet & Play», «Brunch & Play» — Eintritt, Game‑Credit und Drink plus Dinner\/Brunch (Menüs & Bedingungen online).\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBeliebte Spiele im Grand Casino Bern: die richtige Wahl für den Abend\n<\/h3>\n\n<p>\nIm Grand Casino Bern findest du die ganze Palette klassischer und moderner Spiele: Roulette, Blackjack, Ultimate Texas Hold’em, Punto Banco und das charakteristische Dice Ball sowie eine breite Auswahl an Slots und elektronischer Roulette. \nTischspiele starten täglich ab 18:00, sodass sich der Floor am Abend komplett füllt – ideal, um zwischen Tischen und Slots zu wechseln und Tempo sowie Risiko zu variieren. \nBeim Blackjack gibt es beliebte Side Bets (z. B. Perfect Pairs, King’s Bounty) und den progressiven Blazing 7s, der zusätzliche Gewinnchancen eröffnet. \nFür Pokerfans stehen Cashgames in Texas Hold’em und Omaha bereit sowie Ultimate Texas Hold’em, bei dem du gegen den Dealer spielst. \nPunto Banco (Baccarat) kombiniert Tempo und Eleganz — mit einfachen Wetten auf «Player», «Banker» oder «Tie». \nDie Slots sind mit vernetzten Progressiven wie Swiss Jackpot und Jackpot Mania verbunden; jeder Spin kann zur grossen Ausschüttung führen. \nWer den Craps‑Spirit sucht, probiert Dice Ball — schnelle Würfe, klare Regeln und eine ordentliche Portion Adrenalin im Berner Format.\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nSpiele\n<\/h4>\n\n <ul>\n            <li>• \nAmerican & Vegas Roulette — Klassiker mit einfachen Inside\/Outside‑Bets; schnelles Spiel, klare Quoten.\n<\/li>\n            <li>• \nBlackjack — du spielst gegen den Dealer; Perfect Pairs, King’s Bounty und Blazing 7s liefern zusätzliche Gewinnwege.\n<\/li>\n            <li>• \nUltimate Texas Hold’em — Poker gegen die Bank mit strukturierten Einsätzen pro Street und Fokus auf Handstärke.\n<\/li>\n            <li>• \nPoker (Texas Hold’em \/ Omaha) — Cashgames und regelmässige Formate für Spiel gegen andere Gäste.\n<\/li>\n\t    <li>• \nPunto Banco (Baccarat) — kompakte Runden, intuitive Wetten auf Spieler\/Banker\/Unentschieden.\n<\/li>\n\t    <li>• \nDice Ball — Würfelaction im Stil von Craps, angepasst an das Berner Casino‑Setting.\n<\/li>\n\t    <li>• \nSlots & elektronische Roulette — grosser Automatenpark, vernetzt mit Swiss Jackpot und Jackpot Mania.\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMaximale und minimale Einsätze im Grand Casino Bern\n<\/h3>\n\n<p> \nFür American und Vegas Roulette liegen offizielle Limits vor; bei Blackjack sind die Side‑Bet‑Mindestwerte (Perfect Pairs, King’s Bounty, Blazing 777) genannt. Die Basistisch‑Limits sowie Limits bei Ultimate Texas Hold’em und Punto Banco werden am jeweiligen Tisch ausgewiesen und können je nach Tageszeit variieren (gemäss Hausordnung).\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#D5BD76; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Spiel<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum (CHF)<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum (CHF)<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">American Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">4 800 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Vegas Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1 200<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2–20 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Limit gemäss Spielbeschreibung.<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ultimate Texas Hold’em<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Konkrete Min\/Max am Tisch <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> Konkrete Min\/Max am Tisch<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Punto Banco (Baccarat)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Konkrete Min\/Max am Tisch<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Konkrete Min\/Max am Tisch<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots \/ elektronische Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">pro Gerät variiert<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">pro Gerät variiert<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents & Nightlife im Grand Casino Bern: regelmässige Programme, Specials und Shows\n<\/h3>\n\n<p>\nDas Grand Casino Bern ist ein Fixpunkt im Berner Nightlife: im Kursaal Bern eingebettet, setzt das Haus an Donnerstag–Samstag auf besonders lebendige Abendprogramme – ein stimmiger Mix aus Spiel, Bar‑Ambiente und Events. Für den «Abend unter einem Dach» eignen sich die offenen Öffnungszeiten und die klare Besucherführung. \nDen Ton gibt die Crazy Daisy Kitchen Bar an: Speakeasy‑Look der 20er, warme Küche und Signature‑Drinks direkt am Floor. Ergänzend läuft die Crazy Daisy Lounge & Bar Do–Fr bis 03:00, was dem Abend spürbar einen Club‑Charakter verleiht.\n<\/p>\n<br>\n\n<p>\nZu den regelmässigen Entertainment‑Bausteinen zählen tägliche Tischspiele ab 18:00, späte Öffnungszeiten und durchgehende Gastronomie bis zur Schliessung. Als «Wochenstart mit Extra» gilt Blue Monday: Am Sonntag gibt es einen Gutschein für freien Eintritt und CHF 10 Spielguthaben für den darauffolgenden Montag.\n<\/p>\n<br>\n<p>\nDie Saison‑Highlights und Specials decken das Jahr: Der Advents‑Kalender sorgt im Dezember online für tägliche Überraschungen, Formate wie Men’s Night und Silvester Poker setzen an Feiertagen Akzente. Wer Kulinarik und Spiel verbinden will, nutzt Erlebnis‑Pakete wie «Giardino & Play», «Asian Dream Buffet & Play» oder «Brunch & Play» – inklusive Eintritt, Game‑Credit und Dinner\/Brunch in den Kursaal‑Restaurants.\n<\/p>\n<br>\n<p>\nService‑seitig bleibt der Ablauf einfach: Programm‑Updates erscheinen auf den offiziellen Seiten, es gibt einen Newsletter, und die Anreise ist bequem — Tram Nr. 9 bis Kursaal oder die Kursaal‑Tiefgarage mit Nachtvorteilen. Damit ist das Grand Casino Bern eine verlässliche Adresse für Night‑Outs mit Spiel und Bar‑Flair.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nEntertainment & Events\n<\/h4>\n\n <ul>\n            <li>• \nAbendprogramme (Do–Sa): Fokus auf Unterhaltung und Atmosphäre bis spät in die Nacht.\n<\/li>\n            <li>• \nCrazy Daisy Kitchen Bar: Speakeasy‑Vibe, Küche & Drinks direkt am Floor bis zur Schliessung.\n<\/li>\n            <li>• \nCrazy Daisy Lounge & Bar: Do–Fr 18:30–03:00 — Club‑Note im Kursaal‑Setting.\n<\/li>\n            <li>• \nBlue Monday: Gutschein für freien Eintritt + CHF 10 Spielguthaben (Sonntag ausgegeben, Montag gültig).\n<\/li>\n\t    <li>• \nAdvents‑Kalender: saisonale Dezember‑Promo mit täglichen Preisen\/Überraschungen.\n<\/li>\n\t    <li>• \nSilvester Poker: festliches Poker‑Event zum Jahreswechsel.\n<\/li>\n\t    <li>• \nMen’s Night: Themenabend mit Programm und Gewinnen.\n<\/li>\n\t    <li>• \nErlebnis‑Pakete (Kursaal): «Giardino & Play», «Asian Dream Buffet & Play», «Brunch & Play» — Eintritt, Game‑Credit, Drink + Dinner\/Brunch.\n<\/li>\n\t    <li>• \nMini‑Führungen\/Spielerklärungen: persönliche Erklärungen der Spiele und Floor‑Tour auf Voranmeldung. \n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBars, Restaurants und Erholung im Grand Casino Bern\n<\/h3>\n\n<p>\nDer gastronomische Mittelpunkt des Grand Casino Bern ist die Crazy Daisy Kitchen Bar: ein Speakeasy‑Setting im Stil der 1920er, direkt am Gaming‑Floor. Hier treffen Signature‑Drinks, warme Küche und entspannte Atmosphäre zusammen — bewusst als integraler Teil des Casino‑Erlebnisses gestaltet.\n<\/p>\n<br>\n\n<p>\nDie Küche läuft bis in den späten Abend: Offiziell serviert Crazy Daisy abends warme Gerichte (Di–Do und So bis ~23:00; Fr–Sa bis tief in die Nacht), tagsüber übernimmt die Lounge‑Bar mit Snacks und Drinks. Zusätzlich bietet der Kursaal Restaurant Yù und Giardino Restaurant & Bar, im Sommer den Rooftop Grill — ideal, um den Abend kulinarisch zu verlängern, vom asiatischen Buffet bis zur italienisch inspirierten Karte.\n<\/p>\n<br>\n<p>\nFür einen nahtlosen «Dinner‑Game‑Stay» ist das Swissôtel Kursaal Bern vor Ort: modern renovierte Zimmer, direkte Anbindung an Casino und Gastronomie. Ausgestattet mit Satelliten‑LCD‑TV, Wi‑Fi, Nespresso, Arbeitsplatz und Boxspring‑Betten, eignet es sich perfekt für einen Night‑Out ohne zusätzliche Wege.\n<\/p>\n<br>\n<p>\nDie Nachtseite wird durch verlängerte Bar‑Zeiten getragen: Die Crazy Daisy Lounge & Bar ist Do–Fr bis 03:00 offen — das verleiht dem Abend einen spürbaren Club‑Charakter. Insgesamt setzt das Casino Do–Sa auf lebendige Nightlife‑Programme; ergänzend gibt es Erlebnis‑Pakete («Giardino & Play», «Asian Dream Buffet & Play», «Brunch & Play») mit Eintritt, Game‑Credit und Dinner\/Brunch.\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAlle Erholungsorte\n<\/h4>\n\n <ul>\n            <li>• \nCrazy Daisy Kitchen Bar — Speakeasy‑Vibe direkt am Floor: kreative Drinks, warme Küche; abends heisse Küche, tagsüber Lounge‑Bar.\n<\/li>\n            <li>• \nCrazy Daisy Lounge & Bar — Abend‑Lounge Do–Fr bis 03:00, bringt Club‑Flair in den Kursaal.\n<\/li>\n            <li>• \nRestaurant Yù — asiatische Spezialitäten\/Buffet im Kursaal, passt ideal vor oder nach dem Spiel.\n<\/li>\n            <li>• \nGiardino Restaurant & Bar — saisonale europäisch‑italienische Küche; Bestandteil von «Giardino & Play». \n<\/li>\n\t    <li>• \nRooftop Grill (Sommer) — saisonale Dachterrasse mit Grill‑Menü und Aussicht.\n<\/li>\n\t    <li>• \nSwissôtel Kursaal Bern — 4★ Hotel im selben Komplex; renovierte Zimmer, kurze Wege zu Casino und Restaurants.\n<\/li>\n        <\/ul><br>\n\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "FAQ",
+            "items": [
+                {
+                    "title": "Kann ich «nur für den Abend» kommen, ohne zu spielen?",
+                    "answer": "Ja. Spielen ist nicht verpflichtend: Geniessen Sie Drinks\/Abendessen in der Crazy Daisy Kitchen Bar; auf Voranmeldung sind kostenlose Mini‑Führungen mit Spielerklärungen möglich."
+                },
+                {
+                    "title": "Bis wann ist der Eintritt möglich?",
+                    "answer": "Der Eintritt ist bis 30 Minuten vor Schliessung möglich und beinhaltet einen Welcome‑Drink. Die regulären\/feiertäglichen Zeiten finden Sie unter Prices & Opening Times."
+                },
+                {
+                    "title": " Welche Ausweise werden akzeptiert und was passiert am Eingang?",
+                    "answer": "Erforderlich ist ein gültiger amtlicher Ausweis (Pass\/ID\/Führerausweis etc., in lateinischer Schrift). Es findet eine Identifikation und Datenerfassung gemäss AML statt; die Security kann den Zutritt verweigern, wenn Vorschriften nicht erfüllt sind."
+                },
+                {
+                    "title": "Wie bezahle ich, tausche Jetons und cash‑out?",
+                    "answer": "Jetons für Tische kaufen Sie bar in CHF beim Croupier oder an der Kasse; Fremdwährungen werden an der Kasse gegen spezielle Chips getauscht. Slots funktionieren mit CHF‑Noten\/Tickets; Auszahlung per Ticket in der Kasse oder am Terminal bis CHF 2 000."
+                },
+                {
+                    "title": "Sind Gewinne in der Schweiz steuerfrei?",
+                    "answer": "Gewinne aus Schweizer Spielbanken werden voll ausbezahlt und sind nicht steuerpflichtig; für im Ausland Wohnhafte gelten die Gesetze des Wohnsitzlandes."
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1115",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Grand Casino Bern"
+        }
+    },
+    "langs": [
+        {
+            "code": "de-CH",
+            "name": "Немецкий",
+            "isDefault": true
+        }
+    ]
+}
